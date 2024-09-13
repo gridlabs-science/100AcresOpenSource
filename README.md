@@ -1,5 +1,6 @@
 # 100acresS9
-Authorized Github copy of the 100 Acres Ranch designed S9 Hashbox code, hosted with permission.
+Authorized Github copy of the 100 Acres Ranch designed S9 Hashbox code, hosted with permission.  
+Disc images for S9 LuxOS Firmware and the 100 Acres Ranch Raspberry Pi are hosted here: https://t.co/MVvDdvUd0y
 
 **first off be careful dont be working in the rain or with wet hands..**
 
